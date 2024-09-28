@@ -4,6 +4,10 @@
 
 Ce projet est un **quine**, un programme qui, lorsqu'il est exécuté, génère son propre code. Dans ce cas, le quine génère un labyrinthe aléatoire en Lua. Chaque labyrinthe est unique, et le code produit peut lui-même être exécuté pour générer un nouveau labyrinthe à chaque itération.
 
+## Instalation
+
+fair en sorte que require("lexer") pointe vers lexer.lua puis profiter !
+
 ## Code
 
 ```lua
